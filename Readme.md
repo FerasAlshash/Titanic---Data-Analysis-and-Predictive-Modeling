@@ -1,5 +1,7 @@
 # Titanic Data Analysis and Predictive Modeling  
 
+![Titanic Data Analysis and Predictive Modeling](FerasAlshashTitanic---Data-Analysis-and-Predictive-Modeling.jpg)
+
 ## 🛳️ Project Overview  
 This project focuses on analyzing the Titanic dataset to uncover insights about passenger survival and build a machine learning model to predict survival probabilities.  
 
